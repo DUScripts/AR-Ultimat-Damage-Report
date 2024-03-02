@@ -2,8 +2,14 @@
 
 
 -Copy Raw script and paste into a programming board
+
+
 -Link core first
+
+
 -Then link any element that will serve as hologram positioning 
+
+
 -Enjoy!
 
 
