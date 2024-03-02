@@ -1,13 +1,13 @@
 # AR-Ultimat-Damage-Report
 
 
--Copy Raw script and paste into a programming board
+-Copy Raw script and paste into a programing board
 
 
 -Link core first
 
 
--Then link any element that will serve as hologram positioning 
+-Then link any element that will serve as hologram positionning 
 
 
 -Enjoy!
