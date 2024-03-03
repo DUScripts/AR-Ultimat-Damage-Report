@@ -23,4 +23,4 @@ Is used if you want to refine the holograme shape
 
 By default it will compose a point cloud based on adjustors elements
 
-Spread as many adjustors as possible on the hull of your construct and run the point cloud collector, to add customPointCloud to the AR Ultimat Damage Report
+Spread as many adjustors as possible on the hull of your construct and run the point cloud collector, copy point cloud list in the screen to add customPointCloud to the AR Ultimat Damage Report located in the Unit onstart
